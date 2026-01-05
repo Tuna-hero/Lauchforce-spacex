@@ -4,7 +4,7 @@
 
 Bu proje, statik bir web sitesi değil; canlı veri akışı sağlayan, çevrimdışı (offline) çalışabilen ve mobil cihazlara kurulabilen dinamik bir uygulamadır.
 
- **Canlı Demo:** [](https://tuna-hero.github.io/Lauchforce-spacex/)]
+ **Canlı Demo:** [(https://tuna-hero.github.io/Lauchforce-spacex/)](https://tuna-hero.github.io/Lauchforce-spacex/)
  **Tanıtım Videosu:** ![](img/video.mp4)
 
 ---

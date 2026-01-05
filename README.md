@@ -5,7 +5,7 @@
 Bu proje, statik bir web sitesi değil; canlı veri akışı sağlayan, çevrimdışı (offline) çalışabilen ve mobil cihazlara kurulabilen dinamik bir uygulamadır.
 
  **Canlı Demo:** [BURAYA GITHUB PAGES VEYA NETLIFY LINKINI YAPIŞTIR]
- **Tanıtım Videosu:** ![](img/screenshot1.png)
+ **Tanıtım Videosu:** ![](img/video.mp4)
 
 ---
 

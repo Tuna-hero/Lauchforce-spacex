@@ -1,0 +1,13 @@
+{
+  "name": "spacetech-analiz",
+  "version": "1.0.0",
+  "description": "SpaceX Veri Analiz Platformu",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  },
+  "author": "Tuna Kahraman",
+  "license": "ISC"
+}

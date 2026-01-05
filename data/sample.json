@@ -1,0 +1,41 @@
+[
+  {
+    "id": "yedek1",
+    "name": "Starlink-99 (YEDEK VERİ)",
+    "flight_number": 999,
+    "date_utc": "2025-01-01T10:00:00.000Z",
+    "success": true,
+    "upcoming": false,
+    "details": "Bu veri, API erişilemediği için yerel dosyadan (Plan B) çekilmektedir.",
+    "links": {
+      "patch": { "small": "img/hazirlik.jpg" },
+      "flickr": { "original": [] }
+    }
+  },
+  {
+    "id": "yedek2",
+    "name": "Falcon Heavy Demo (YEDEK)",
+    "flight_number": 1000,
+    "date_utc": "2024-12-12T12:00:00.000Z",
+    "success": true,
+    "upcoming": false,
+    "details": "Yedek veri gösterimi başarılı.",
+    "links": {
+      "patch": { "small": "img/hazirlik.jpg" },
+      "flickr": { "original": [] }
+    }
+  },
+  {
+    "id": "yedek3",
+    "name": "Crew-X (YEDEK)",
+    "flight_number": 1001,
+    "date_utc": "2026-05-05T09:00:00.000Z",
+    "success": false,
+    "upcoming": false,
+    "details": "Bağlantı sorunu nedeniyle örnek veri listeleniyor.",
+    "links": {
+      "patch": { "small": "img/hazirlik.jpg" },
+      "flickr": { "original": [] }
+    }
+  }
+]

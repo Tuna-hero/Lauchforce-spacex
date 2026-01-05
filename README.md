@@ -68,6 +68,12 @@ Arka planda çalışan bu script sayesinde:
 * Önbellekteki sayfalar (Ana sayfa, Hakkımızda vb.) açılmaya devam eder.
 * Önbellekte olmayan bir sayfaya girilirse özel tasarlanmış **`offline.html` (Bağlantı Koptu)** sayfası devreye girer.
 
+### 4. API Hata Senaryosu (Plan B)
+Canlı API erişiminde sorun yaşanması durumunda kullanıcı deneyiminin aksamaması için yedek mekanizma geliştirilmiştir.
+
+* **Senaryo:** API isteği başarısız olduğunda (catch bloğu).
+* **Aksiyon:** `/data/sample.json` dosyasındaki statik veriler çekilir.
+* **Uyarı:** Kullanıcıya "Canlı API erişilemiyor" uyarısı gösterilir.
 ---
 
 ## Proje Yapısı (Multi-Page)
